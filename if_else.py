@@ -4,5 +4,7 @@ if light == 'blue':
     print("길을 건너세요.")
 elif light == 'red':
     print("건너지마세여.")
+elif light == ‘yellow’:
+    print(“속도를 줄이세요”)
 else:
     print("잘못된색입니다.")
